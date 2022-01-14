@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Juste Java</string>
+    <string name="user_hint">Entrez votre nom</string>
+    <string name="toppings">Garnitures</string>
+    <string name="toppings_item1">Crème fouettée</string>
+    <string name="toppings_item2">ChocoBar</string>
+    <string name="quantity">Quantité</string>
+    <string name="order_summary">Récapitulatif de la commande</string>
+    <string name="total_price">Total: $ 0</string>
+    <string name="submit_order">Ordre</string>
+</resources>

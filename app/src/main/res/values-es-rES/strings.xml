@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Solo Java</string>
+    <string name="user_hint">Introduzca su nombre</string>
+    <string name="toppings">Aderezos</string>
+    <string name="toppings_item1">Crema batida</string>
+    <string name="toppings_item2">ChocoBar</string>
+    <string name="quantity">Cantidad</string>
+    <string name="order_summary">Resumen de la orden</string>
+    <string name="total_price">Total: $ 0</string>
+    <string name="submit_order">orden</string>
+</resources>
